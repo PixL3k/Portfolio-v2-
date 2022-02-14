@@ -1,0 +1,65 @@
+
+body {
+
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    width: 10%;
+    margin: 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+.dev {
+    text-decoration: underline;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 30%;
+    bottom: 300px;
+    justify-content: center;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 30%;
+    top: 10px;
+}
+
+.profile-picture {
+    height: 200px;
+    width: auto;
+    padding: 30px;
+}
+.code-pic {
+    height: 200px;
+    width: auto;
+
+}
+
+.bio {
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.photoshop {
+    height: 150px;
+    width: auto;
+}
